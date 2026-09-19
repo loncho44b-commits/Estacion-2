@@ -1,0 +1,6 @@
+id_transaccion,tipo,monto,impacto
+C001,TransaccionCredito,500000,10000.0
+C002,TransaccionDebito,150000,1500
+C003,TransaccionEfectivo,80000,800.0
+C007,TransaccionCredito,300000,6000.0
+C008,TransaccionEfectivo,120000,1200.0

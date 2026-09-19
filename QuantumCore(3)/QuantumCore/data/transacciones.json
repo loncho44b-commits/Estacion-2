@@ -1,0 +1,27 @@
+[
+  {
+    "tipo": "CREDITO",
+    "id_transaccion": "C001",
+    "monto": 500000
+  },
+  {
+    "tipo": "DEBITO",
+    "id_transaccion": "C002",
+    "monto": 150000
+  },
+  {
+    "tipo": "EFECTIVO",
+    "id_transaccion": "C003",
+    "monto": 80000
+  },
+  {
+    "tipo": "CREDITO",
+    "id_transaccion": "C007",
+    "monto": 300000
+  },
+  {
+    "tipo": "EFECTIVO",
+    "id_transaccion": "C008",
+    "monto": 120000
+  }
+]
